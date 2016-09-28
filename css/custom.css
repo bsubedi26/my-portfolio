@@ -1,0 +1,30 @@
+.title {
+	font-size: 64px;
+}
+
+.career {
+	font-size: 64px;
+
+}
+
+.location {
+	font-size: 64px;
+
+}
+
+.linkedin {
+	background-color: black;
+}
+
+.github {
+	background-color: #bf5700;
+}
+
+.btn-info {
+	background-color: black;
+}
+
+
+p {
+	font-size: 20px;
+}
